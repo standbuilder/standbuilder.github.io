@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1220 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.33333,0,0,1.33333,-190.444,-138.723)">
+        <g id="icon" transform="matrix(0.0905672,0,0,0.0905672,9.26756,-26.654)">
+            <path d="M1692.05,2383.99L1692.05,1885.59L1968.53,1887.29L1968.53,1751.63L2413.62,1593.45L2413.62,1443.09L3185.01,1675.96L3185.01,2383.99L3430.52,2383.99L3430.52,2457.97L1474.76,2457.97L1474.76,2383.99L1692.05,2383.99ZM1782.91,1964.16L1782.91,2383.99L2413.62,2383.63L2413.62,1961.61L1782.91,1964.16ZM2487.95,2383.63L2704.54,2383.63L2704.54,1961.61L2487.95,1961.61L2487.95,2383.63ZM2778.86,2383.63L3105.63,2383.99L3105.63,1731.07L2487.95,1541.96L2487.95,1887.29L2778.86,1887.29L2778.86,2383.63ZM2413.62,1887.29L2413.62,1672.19L2042.89,1803.96L2042.89,1887.29L2413.62,1887.29Z" style="fill:rgb(164,53,240);"/>
+        </g>
+        <g transform="matrix(0.948477,0,0,0.948477,54.149,29.5473)">
+            <text x="320.124px" y="173.631px" style="font-family:'RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-Medium', 'Roboto Flex';font-size:124.17px;fill:white;">Stand Builder</text>
+        </g>
+    </g>
+</svg>
